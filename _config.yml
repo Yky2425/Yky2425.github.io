@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Keyu Yang / Personal Profile"
+title                    : "Keyu Yang / Homepage"
 title_separator          : "-"
 name                     : &name "Keyu Yang"
 description              : &description "a third year undergraduate student at Shanghai Jiao Tong University"
