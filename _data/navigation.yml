@@ -8,17 +8,17 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Academic Performance"
-    url: /academic/
+  # - title: "Academic Performance"
+  #   url: /academic/
 
-  - title: "Student Work Experience"
-    url: /studentwork/
+  # - title: "Student Work Experience"
+  #   url: /studentwork/
 
-  - title: "Contests"
-    url: /contest/
+  # - title: "Contests"
+  #   url: /contest/
 
-  - title: "Reseach Experience"
-    url: /research/
+  # - title: "Reseach Experience"
+  #   url: /research/
     
   - title: "Publications"
     url: /publications/
