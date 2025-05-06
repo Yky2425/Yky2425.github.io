@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Keyu Yang, a third year undergraduate student at the department of biomedical engineering, Shanghai Jiao Tong University. Welcome to my homepage.
+Hi, I'm Keyu Yang, a third year undergraduate student at the school of biomedical engineering, Shanghai Jiao Tong University. Welcome to my homepage.
 
