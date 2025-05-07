@@ -44,7 +44,7 @@ Scholar Experience
   * The reconstructed images can be represented under arbitrary resolution.
   * Applying a self-supervised training strategy, the approach does not need high-resolution references during training.
   * The fused images can retain metablolic information from sodium images while exhibiting clearer anatomical structures.
-  * The work is under the process of experimental validation. See [here](../assets/Sodium_and_T2_MRI_Representation_of_Arbitrary_Resolution_via_Implicit_Neural_Representation.pdf) for a manuscript of the work.
+  * The work is under the process of experimental validation. **See [here](../assets/Sodium_and_T2_MRI_Representation_of_Arbitrary_Resolution_via_Implicit_Neural_Representation.pdf) for a manuscript of the work.**
 
 Skills
 ======
