@@ -48,11 +48,8 @@ Scholar Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming Languages: Python, C++, Matlab
+* Deep Learning Frameworks: PyTorch, TensorFlow
+* English: Fluent
+  * TOEFL: Total 112. Reading 29, Listening 29, Speaking 26, Writing 28
 
