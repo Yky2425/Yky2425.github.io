@@ -22,6 +22,13 @@ Academic Performance
 * Current grade status
   * Points of core courses: 89.83. Ranking: 13/85
   * GPA: 3.87/4.30. Ranking: 10/85
+* Awards
+  * Class B scholarship, 2023-2024
+  * Class C scholarship, 2024-2025
+
+Contest
+=====
+* Honorable Mention, Mathematical Contest in Modeling, COMAP 2024
   
 Skills
 ======
