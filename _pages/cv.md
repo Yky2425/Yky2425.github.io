@@ -30,16 +30,16 @@ Honor and Awards
 
 Scholar Experience
 =====
-* Jun. 2023 - Sep. 2023: Cerebrovascular Network Atlas Construction, at SJTU, directed by Yao Li
+* Jun. 2023 - Sep. 2023: Cerebrovascular Network Atlas Construction, at SJTU, directed by Prof. Yao Li
   * Extracted vessels of SWI images using Frangi Filter.
   * Continuity processing of vessels using VED (Vessel Enhancement Diffusion).
   * Constructed a cerebrovascular network atlas from 5000 images (registered to the same template).
-* Apr. 2024 - Oct. 2024: MRI Super-resolution based on diffusion models, at SJTU, directed by Hongjiang Wei
+* Apr. 2024 - Oct. 2024: MRI Super-resolution based on diffusion models, at SJTU, directed by Assoc. Prof. Hongjiang Wei
   * Inspired by the idea from [Compressed Sensing with Deep Generative Priors](https://arxiv.org/abs/2108.01368)
   * Designed a degradation model to simulate low-field MRI images from high quality ones.
   * Innovatively added a deconvolution operator into the posterior sampling process.
   * Our architecture performed well on simulated low-field datasets, but poorly on real world low-field ones.
-* Oct. 2024 - : Sodium and T2W MRI Fusion Representation of Arbitrary Resolution via Implicit Neural Representation, at SJTU, directed by Hongjiang Wei
+* Oct. 2024 - : Sodium and T2W MRI Fusion Representation of Arbitrary Resolution via Implicit Neural Representation, at SJTU, directed by Assoc. Prof. Hongjiang Wei
   * We proprosed an approach for reconstructing fused images from low-resolution T2W and Sodium MRI images.
   * The reconstructed images can be represented under arbitrary resolution.
   * Applying a self-supervised training strategy, the approach does not need high-resolution references during training.
