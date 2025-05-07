@@ -11,20 +11,15 @@ redirect_from:
 
 Education
 ======
-* Bachelor in Shanghai Jiao Tong University, 2025
+* Shanghai Jiao Tong University, Shanghai, China, 2022-
+  * Major in biomedical engineering
+  * Points of core courses: 89.83. Ranking: 13/85
+  * GPA: 3.87/4.30. Ranking: 10/85. See here for full transcript: [Full Transcript](../assets/Transcript_Chi.pdf)
+
 
 Student Work Experience
 =====
-* Class monitor in 2023. First Prize for Class and Team Building in the school of biomedical engineering in 2023（学院级班团建设一等奖）.
-
-Academic Performance
-======
-* Current grade status
-  * Points of core courses: 89.83. Ranking: 13/85
-  * GPA: 3.87/4.30. Ranking: 10/85
-* Awards
-  * Class B scholarship, 2023-2024
-  * Class C scholarship, 2024-2025
+* Class monitor in 2023. First Prize for Class and Team Building in the school of biomedical engineering in 2023.
 
 Contest
 =====
